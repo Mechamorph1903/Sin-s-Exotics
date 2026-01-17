@@ -1,3 +1,7 @@
+.bar{
+	position: sticky;
+}
+
 nav{
 	display: flex;
 	align-items: center;
@@ -7,7 +11,7 @@ nav{
 	color: rgb(185, 1, 1);
 	margin: 0 3rem;
 }
-Link{
+a{
 	color: red;
 	margin-top: 1em;
 	margin-bottom: 1em;
