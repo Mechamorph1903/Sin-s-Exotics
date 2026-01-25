@@ -4,6 +4,7 @@
 	background-color: black;
 	padding-bottom: 10px;
 	height: 9em;
+	margin-bottom: 4em;
 }
 
 nav{
@@ -14,7 +15,9 @@ nav{
 	background-color: rgb(52, 49, 49);
 	color: rgb(185, 1, 1);
 	margin: 0 3rem;
-	border: 2px ridge black;
+	border: 3px outset gray;
+	border-radius: 15px;
+	
 }
 a{
 	color: red;
