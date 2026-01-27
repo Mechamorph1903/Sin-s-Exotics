@@ -39,3 +39,12 @@
 	align-items: center;
 
 }
+
+.cars{
+	margin-bottom: 40px;
+}
+
+.footer > p{
+	color: rgba(128, 128, 128, 0.41);
+	text-align: center;
+}

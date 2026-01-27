@@ -94,6 +94,10 @@ function Home(){
 					</div>
 					<Link to="/cars">Check out our Full Collection!</Link>
 				</div>
+
+				<div className="footer">
+					<p>@AnorueJr</p>
+				</div>
 			</div>
 		</div>
 	)
