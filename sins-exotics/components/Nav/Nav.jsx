@@ -13,7 +13,7 @@ function Navbar(){
 			</div>
 			<nav>
 				<Link to="/">Home</Link>
-				<Link to="/cars"><i class="fa-solid fa-car"></i>Cars</Link>
+				<Link to="/cars"><i className="fa-solid fa-car"></i>Cars</Link>
 				<Link to="/contact">Contact</Link>
 			</nav>
 		</div>

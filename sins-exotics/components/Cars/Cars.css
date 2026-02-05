@@ -1,0 +1,17 @@
+.carDisplay{
+	display: flex;
+	gap: 3em;
+}
+
+
+
+.carCard{
+	height: 10em;
+	width: 4em;
+
+}
+
+.carCard > img{
+	width: 100px;
+	height: 100px;
+}
