@@ -42,10 +42,12 @@ function Cars(){
 
 			<div className="carDisplay">
 				{vehicles.map((car) => (
+					<Link className="carLinks" to={/}>
 					<div className="carCard" key={car.car_id}>
 						<img src={carImg} alt="" />
 						<p>{car.car_model}</p>
 					</div>
+					</Link>
 				))}
 				
 			</div>
